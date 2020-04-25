@@ -1,0 +1,216 @@
+/*  
+Theme Name: Ginger Ninja! v2
+Description: The new Ginger Ninja! theme.
+Version: 1.0
+Author: Donny Burnside
+Author URI: http://www.ginger-ninja.net/
+*/
+
+/* Generic Styling */
+
+body {
+	font-family:Calibri, Verdana;
+	font-size:72.5%; /* Sets default font size to 10px */
+	color:#222222;
+	background-color: #404c52;
+	background-image: url("dust.png");
+
+	}
+
+* {
+	margin:0;
+	padding:0;
+	}
+
+img {
+	border:0;
+	}
+
+p {
+	margin-bottom:1.75em;
+	}
+
+a {
+	text-decoration:none;
+	color:#AD0000;
+	}
+a:hover {
+	text-decoration:none;
+	color:#6CC7DC;
+	}
+
+/* Structure */
+
+#wrapper {
+	margin:0 auto;
+	width:1000px;
+	background:#ffffff;
+	font-size:1.20em;
+	box-shadow: 0px 0px 5px 2px #313131 ;
+
+	}
+#header {
+	height:80px;
+	border:1px solid black;
+	background: #A3A3A3; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(-90deg, #A3A3A3, #fff); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(-90deg, #A3A3A3, #fff); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(-90deg, #A3A3A3, #fff); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #A3A3A3, #fff); /* Standard syntax */
+	}
+	
+#menu {
+	height:35px;
+	line-height:35px;
+	background:url(images/bg-menu.png) repeat-x;
+	padding:0 10px;
+	}
+	
+#form
+{
+min-height:500px;
+border:1px solid black;
+}	
+	
+#content {
+	float:left;
+	width:500px;
+	min-height:400px;
+	}
+#footer {
+	
+	clear:both;
+	height:35px;
+	background-color:#292929;
+	}
+
+/* Menu */
+
+#menu ul {
+	list-style-type:none;
+	}
+#menu li {
+	float:left;
+	
+	}
+#menu li a {
+	padding:0 15px;
+	display:block;
+	color:#ffffff;
+	margin-right:2px;
+	}
+#menu li a:hover 
+	{
+	background:url(images/bg-menu-hover.png) no-repeat center center;
+	}
+
+
+/* Footer */
+
+#footer-valid {
+	float:left;
+	padding-top:9px;
+	padding-left:5px;
+	cursor:default;
+	color:#ffffff;
+	}
+#footer-valid a {
+	color:#ffffff;
+	text-decoration:none;
+	}
+#footer-valid a:hover {
+	color:#ffffff;
+	text-decoration:underline;
+	}
+
+/* Heading's */
+
+h1 {
+	font-size:2.5em;
+	font-weight:normal;
+	cursor:default;
+	position:relative; top:22px; left:30px;
+	letter-spacing:1px;
+	color:black;
+	font-style:Bold;
+	}
+
+/* Feed */
+
+#feed {
+	height:25px;
+	width:126px;
+	background:url(images/bg-feed.gif) no-repeat;
+	margin:0 auto;
+	padding-left:26px;
+	}
+a.feed-button {
+	display:block;
+    width:100px;
+    height:25px;
+    background:url("images/button-feed.png") 0 0 no-repeat;
+    text-decoration: none;
+	}
+a:hover.feed-button {
+	background-position:0 -25px;
+	}
+
+/* Extra's */
+
+#ad-top {
+	width:480px;
+	height:72px;
+	background:url(images/bg-ad-top.png) no-repeat;
+	padding:5px;
+	}
+	
+
+#record td, #record th {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+
+#record th {
+    border: 1px solid black;
+    padding: 5px;
+}
+#record tr:nth-child(even){background-color: #f2f2f2;}
+#record tr:hover {background-color: #ddd;}
+#record th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #686868;
+    color: white;
+}
+		
+	
+	
+
+#record td, #record th {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+
+.record td, .record th {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.record th {
+    border: 1px solid black;
+    padding: 5px;
+}
+.record tr:nth-child(even){background-color: #f2f2f2;}
+.record tr:hover {background-color: #ddd;}
+.record th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #686868;
+    color: white;
+}
+	
+	

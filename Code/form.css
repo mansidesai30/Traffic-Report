@@ -1,0 +1,73 @@
+.forms h3
+{
+font-size:15px; 
+width:150px;
+color:#7D7D7D;
+}
+
+.forms
+{
+font-size:14px;
+font-weight:bold;
+color: #191010;	
+}
+.forms input[type=text],input[type=email],input[type=password],textarea
+{	
+    box-shadow: 1px 1px 2px 0px #C9C9C9 inset;
+    border: 1px solid #FFF;
+    box-shadow: 1px 1px 2px 0px #707070 inset;
+    transition: box-shadow 0.3s ease 0s;
+	color:#191010;
+	height:22px;
+	width:100;
+	padding:2px;
+	border:1px solid #5A7FFF;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0px 0.3px 1px 1px gray;
+	margin:3px;
+	box-shadow:0px 0px 2px 0px #5A7FFF;	
+	
+}
+.forms select
+{
+    box-shadow: 1px 1px 2px 0px #C9C9C9 inset;
+    border: 1px solid #FFF;
+    box-shadow: 1px 1px 2px 0px #707070 inset;
+    transition: box-shadow 0.3s ease 0s;
+	color:#191010;
+	height:28px;
+	width:100;
+	padding:2px;
+	border:1px solid #5A7FFF;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0px 0.3px 1px 1px gray;
+	margin:3px;
+	box-shadow:0px 0px 2px 0px #5A7FFF;	  overflow-x: hidden;
+   overflow:scroll;
+	
+}
+.forms input[type=submit],input[type=reset],input[type=button]
+{	
+	
+	color:white;
+	height:30px;
+	padding:5px;
+	
+	border:1px solid orange;
+	border-radius: 3px 3px 3px 3px;
+	box-shadow: 0px 0.3px 0.2px 1px gray;
+	text-shadow: 0.5px 0.5px 0.5px black;
+	background:#404c52;
+	cursor:pointer;
+	
+	
+}
+
+.forms input[type=submit]:hover ,.forms input[type=reset]:hover,.forms input[type=button]:hover 
+{
+	color: #191010;
+	transition: all .5s;
+	background-color: white;
+	BOX-shadow: 0.px 0.2px 0.2px BLACK;
+	
+}

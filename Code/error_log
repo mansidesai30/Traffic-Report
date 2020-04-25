@@ -1,0 +1,30 @@
+[04-Nov-2018 11:23:59 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/tusharcoin/public_html/lday.php on line 491
+[04-Nov-2018 11:24:15 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/tusharcoin/public_html/lday.php on line 491
+[04-Nov-2018 12:02:30 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/tusharcoin/public_html/lday.php on line 334
+[04-Nov-2018 12:54:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tusharcoin/public_html/lweekly.php on line 615
+[04-Nov-2018 12:56:01 UTC] PHP Parse error:  syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/tusharcoin/public_html/lweekly.php on line 437
+[04-Nov-2018 12:59:09 UTC] PHP Parse error:  syntax error, unexpected '$r' (T_VARIABLE), expecting ',' or ';' in /home/tusharcoin/public_html/lweekly.php on line 436
+[04-Nov-2018 16:09:58 UTC] PHP Parse error:  syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/tusharcoin/public_html/lday.php on line 566
+[04-Nov-2018 16:10:10 UTC] PHP Parse error:  syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/tusharcoin/public_html/lday.php on line 566
+[04-Nov-2018 16:19:30 UTC] PHP Parse error:  syntax error, unexpected '$loc' (T_VARIABLE) in /home/tusharcoin/public_html/lday.php on line 307
+[04-Nov-2018 16:19:49 UTC] PHP Parse error:  syntax error, unexpected '$loc' (T_VARIABLE) in /home/tusharcoin/public_html/lday.php on line 307
+[04-Nov-2018 16:27:52 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/tusharcoin/public_html/lday.php on line 614
+[04-Nov-2018 16:35:28 UTC] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home/tusharcoin/public_html/lday.php on line 515
+[04-Nov-2018 16:49:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tusharcoin/public_html/lweekly.php on line 495
+[04-Nov-2018 16:49:23 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tusharcoin/public_html/lweekly.php on line 495
+[04-Nov-2018 17:34:45 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/tusharcoin/public_html/lday.php on line 478
+[04-Nov-2018 17:54:17 UTC] PHP Parse error:  syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/tusharcoin/public_html/lweekly.php on line 457
+[04-Nov-2018 17:54:19 UTC] PHP Parse error:  syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/tusharcoin/public_html/lweekly.php on line 457
+[04-Nov-2018 17:54:23 UTC] PHP Parse error:  syntax error, unexpected '"</td>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/tusharcoin/public_html/lweekly.php on line 457
+[04-Nov-2018 19:03:54 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tusharcoin/public_html/lweekly.php on line 800
+[04-Nov-2018 19:03:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/tusharcoin/public_html/lweekly.php on line 800
+[04-Nov-2018 19:10:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tusharcoin/public_html/lweekly.php on line 858
+[04-Nov-2018 19:11:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/tusharcoin/public_html/lweekly.php on line 858
+[26-Nov-2018 13:45:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[26-Nov-2018 13:45:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[26-Nov-2018 13:45:55 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[26-Nov-2018 13:46:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[26-Nov-2018 13:47:05 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[27-Nov-2018 05:26:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[27-Nov-2018 08:31:53 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
+[14-Dec-2018 11:58:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tusharco_12'@'l6.iserverplanet.net' (using password: YES) in /home/tusharcoin/public_html/dbconn.php on line 11
